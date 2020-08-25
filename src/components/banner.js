@@ -15,15 +15,15 @@ const Banner = ()=>{
                         <div className="grid-child-elem">
                             <div className="banner-text">
                                 <p>
-                                  The
+                                    The
                                 </p> 
 
                                 <h1>
-                                    BLACK
+                                   Early
                                 </h1>
 
                                 <p className="right-sub-text">
-                                  <span>Tide</span>
+                                  <span>Years</span>
                                 </p>
 
                             </div>
