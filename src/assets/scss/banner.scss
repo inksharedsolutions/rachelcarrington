@@ -26,6 +26,10 @@
             text-align: center;
         }
     }
+
+    &:nth-child(1){
+        display: none;
+    }
 }
 
 .grid-element-text{
@@ -162,7 +166,7 @@
         position: relative;
         z-index: 10;
         color: #ffffff;
-        text-transform: uppercase;
+        // text-transform: uppercase;
         letter-spacing: 0px;
         font-weight: 100;
         font-size: 1.5rem;
