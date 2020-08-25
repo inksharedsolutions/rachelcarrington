@@ -27,9 +27,9 @@
         }
     }
 
-    &:nth-child(1){
-        display: none;
-    }
+    // &:nth-child(1){
+    //     display: none;
+    // }
 }
 
 .grid-element-text{
@@ -175,6 +175,11 @@
         font-weight: 500;
         opacity: 0.9;
         font-family: Fanwood Text,serif;
+
+        text-align: center;
+        text-transform: uppercase;
+        letter-spacing: 16px;
+        
     }
 
     span{
