@@ -34,7 +34,7 @@ const MidBook = (props)=>{
                             </p>
 
                             <button className="btn-book-featured">
-                                <Link to="">
+                                <Link to="/about-the-book">
                                     Read More
                                 </Link>
                             </button>
