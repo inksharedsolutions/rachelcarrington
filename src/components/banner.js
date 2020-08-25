@@ -23,7 +23,9 @@ const Banner = ()=>{
                                 </h1>
 
                                 <p className="right-sub-text">
-                                  <span>Years</span>
+                                   <span>
+                                      Years
+                                   </span>
                                 </p>
 
                             </div>
