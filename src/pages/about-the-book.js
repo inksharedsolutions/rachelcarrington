@@ -67,9 +67,9 @@ const ATB = (props)=>{
                                         amazon:'https://www.amazon.com/Early-Years-Memoir-Matters-Heart/dp/164345434X/ref=sr_1_1?keywords=9781643454344&qid=1571761115&sr=8-1', 
                                     },
                                     paperback:{
-                                        amazon:'https://www.amazon.com/dp/1643459252/',
+                                        amazon:'https://www.amazon.com/Early-Years-Memoir-Matters-Heart/dp/164345434X/ref=sr_1_1?keywords=9781643454344&qid=1571761115&sr=8-1',
                                         barnes:'#',
-                                        booksamillion:'https://www.booksamillion.com/p/Black-Tide/Perry-Defiore/9781643459257?id=7714171848832',
+                                        booksamillion:'#',
                                     }
                                 }} 
                             />
