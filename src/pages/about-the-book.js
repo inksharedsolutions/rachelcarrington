@@ -57,8 +57,8 @@ const ATB = (props)=>{
                                           through WWII, and in her high school years. As a senior
                                           in high school with a diploma, a certainty along with a
                                           lucrative scholarship promised, she begins to see that her
-                                            dreams of becoming a teacher can really happen. 
-                                        </p>
+                                          dreams of becoming a teacher can really happen. 
+                                       </p>
                                     `,
 
                                     ebooks:{
@@ -74,7 +74,7 @@ const ATB = (props)=>{
                                 }} 
                             />
 
-                            <div className="commentSection" >
+                            <div className="commentSection">
                                 <div id="disqus_thread">
                                     <DiscussionEmbed {...disqusConfig} />
                                 </div>
