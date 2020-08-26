@@ -17,7 +17,6 @@ const ATB = (props)=>{
                 
 		 		<div className="container">
 				    <section className="body-author-contents columns">
-                         
                         <div className="heading-quote column">
                             <div className="author-image-container">
                                 <img src={AuthorImg} />
@@ -31,7 +30,6 @@ const ATB = (props)=>{
                                     author quote
                                 </span>
                             </div>
-                            
                         </div>
 
                         <article className="article-section column" id="author">
@@ -80,7 +78,6 @@ const ATB = (props)=>{
                             </p>
                             
                         </article>
-
                     </section>
                 </div>
 
