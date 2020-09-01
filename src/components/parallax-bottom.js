@@ -7,7 +7,7 @@ import React from 'react'
             <section className="parallax-bottom">
                 <div className="flex-container">
                     <h1>
-                      The more you know, the more you know you don’t know
+                        When you hold on long enough, love will find a way to make it work somehow.
                         <span className="italic-tag span-verse">
                            Ruth Claxton
                         </span>
