@@ -22,13 +22,13 @@ const Footer = ()=>{
                         </h1>
 
                         <p>
-                            Ruth Claxton loves to hear from readers. You can reach him via email. 
-                            Feel free to send questions about writing, his works, interviews 
+                            Ruth Claxton loves to hear from readers. You can reach her via email. 
+                            Feel free to send questions about writing, her works, interviews 
                             and other publicity matters.
                         </p> 
                         
                     <nav className="social-media-nav">
-                        <ul>
+                        <ul> 
 
                             <li>
                                 <a href="https://www.facebook.com/StrattonPressInc/"
@@ -66,18 +66,6 @@ const Footer = ()=>{
                                 </a>
                             </li>
                         
-                            <li>
-                                <a 
-                                    target="_blank"
-                                    href="https://www.goodreads.com/author/show/3409410.Perry_Defiore"
-                                    rel="noreferrer"
-                                    >
-
-                                    <FontAwesomeIcon 
-                                        className='font-awesome'
-                                        icon={faGoodreads} />
-                                </a>
-                            </li>
                         </ul>
 
                     </nav>

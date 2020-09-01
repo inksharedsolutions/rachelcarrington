@@ -9,7 +9,7 @@ import React from 'react'
                     <h1>
                       The more you know, the more you know you don’t know
                         <span className="italic-tag span-verse">
-                          Rachel G. Carrington
+                           Ruth Claxton
                         </span>
                     </h1>
                 </div>
