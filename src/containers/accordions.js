@@ -1,5 +1,5 @@
 import React from 'react'
-import { Collapse, Select } from 'antd'
+import { Collapse} from 'antd'
 import {PlusOutlined,MinusOutlined } from '@ant-design/icons'
 import BookLink from '../components/book-link/book-link'
 import { Link } from 'gatsby'

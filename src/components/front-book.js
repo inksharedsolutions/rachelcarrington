@@ -1,7 +1,6 @@
 import React from 'react'
 import {Link} from 'gatsby'
 import FrontBook from '../../static/books/Book_Cover.png'
-import Accordions from '../containers/accordions'
 
 const MidBook = (props)=>{
     return(

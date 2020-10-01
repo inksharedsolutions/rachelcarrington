@@ -1,6 +1,6 @@
 import React from 'react'
 import {Link} from 'gatsby'
-import {faTwitter, faInstagram, faFacebook, faGoodreads} from '@fortawesome/fontawesome-free-brands'
+import {faTwitter, faInstagram, faFacebook} from '@fortawesome/fontawesome-free-brands'
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 import LogoFooter from '../../static/logo/stratton-footer-logo.png'
 import  Logo from '../../static/logo/logo.png'
