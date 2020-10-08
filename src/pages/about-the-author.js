@@ -24,7 +24,7 @@ const ATB = (props)=>{
 
                             <div className="heading-quote">
                                 <h4>
-                                  “The more you know, the more you know you don’t know”.
+                                  “When you hold on long enough, love will find a way to make it work somehow”.
                                 </h4>
                                 <span className="ata-span-fx">
                                     author quote
