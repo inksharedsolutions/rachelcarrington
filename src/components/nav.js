@@ -81,6 +81,7 @@ const Nav = (props) =>{
 						to="/">
 						
 						<img 
+							alt="logo"
 							className="logo-img"
 							src={Logo}
 						/>

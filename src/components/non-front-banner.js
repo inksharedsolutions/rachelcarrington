@@ -1,10 +1,5 @@
-import React, { useState } from 'react'
-import {Link} from 'gatsby'
-
- 
-
+import React from 'react'
 const NFB = (props)=>{
-
 	return(
 		<>
 			<section className="web-banner" >
@@ -22,5 +17,4 @@ const NFB = (props)=>{
 		</>
 	)
 }
-
 export default NFB

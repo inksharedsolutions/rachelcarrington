@@ -26,7 +26,7 @@ const BookLink = (props)=>{
                     
                     <nav className={`${props.data.isNonfront ? 'booklinkBlocks' : 'frontLinks'}`}>
                         <span>Reviews</span>
-                        <li><a target="_blank" href={props.data.reviews.review}>Reviews</a></li>
+                        <li><a rel="noopener noreferrer" target="_blank" href={props.data.reviews.review}>Reviews</a></li>
                     </nav>
 
                 )}

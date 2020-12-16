@@ -1,7 +1,5 @@
 import React from 'react';
 import { Helmet } from 'react-helmet';
-import { Link } from 'gatsby';
-
 import Layout from '../components/layout';
 import Nav from '../components/nav';
 import Banner from '../components/banner';
