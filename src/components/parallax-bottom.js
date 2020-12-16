@@ -9,7 +9,7 @@ import React from 'react'
                     <h1>
                         When you hold on long enough, love will find a way to make it work somehow.
                         <span className="italic-tag span-verse">
-                           Ruth Claxton
+                            Rachel G. Carrington
                         </span>
                     </h1>
                 </div>

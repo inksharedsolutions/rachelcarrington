@@ -10,7 +10,7 @@ const Author = () =>{
                      <div className="grid-child" id="author-contents">
 
                         <p>
-                          Rachel G Carrington was born in a small southern
+                          Rachel G. Carrington was born in a small southern
                           Kentucky town in 1930. She was first-born of eleven
                           children to loving, but strict, low-income parents
                           who struggled to keep food on the table and could
@@ -20,8 +20,8 @@ const Author = () =>{
                         </p>
 
                         <h1 className="author-name-tag">
-                            <span>Ruth</span>
-                            <span>Claxton</span>
+                            <span>Rachel G.</span>
+                            <span>Carrington</span>
                         </h1>
                         
                         <span className="author-tagline">Author & Writer</span>

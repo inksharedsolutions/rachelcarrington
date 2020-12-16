@@ -34,7 +34,7 @@ const ATB = (props)=>{
 
                         <article className="article-section column" id="author">
                             <p>
-                                Rachel G Carrington was born in a small southern
+                                Rachel G. Carrington was born in a small southern
                                 Kentucky town in 1930. She was first-born of eleven
                                 children to loving, but strict, low-income parents
                                 who struggled to keep food on the table and could
@@ -73,7 +73,7 @@ const ATB = (props)=>{
                             <p>
                                 <span className="author-name">
                                     <span className="author-span-ft">Author | Writer </span>
-                                    <span className="ata-name">Ruth Claxton</span>
+                                    <span className="ata-name">Rachel G. Carrington</span>
                                 </span>
                             </p>
                             

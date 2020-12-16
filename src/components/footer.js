@@ -22,7 +22,7 @@ const Footer = ()=>{
                         </h1>
 
                         <p>
-                            Ruth Claxton loves to hear from readers. You can reach her via email. 
+                            Rachel G. Carrington loves to hear from readers. You can reach her via email. 
                             Feel free to send questions about writing, her works, interviews 
                             and other publicity matters.
                         </p>
