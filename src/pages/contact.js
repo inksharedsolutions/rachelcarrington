@@ -1,4 +1,5 @@
 import React from 'react'
+import { Helmet } from 'react-helmet';
 import Layout from '../components/layout'
 import Inputs from "../components/Inputs/inputs"
 import Nav from '../components/nav'
@@ -34,6 +35,7 @@ const Contact = (props)=>{
         <>
 
             <Layout>
+		        <Helmet title="Contact | Rachel G. Carrington" />
 
 		 		<Nav pathExt={props.path}/>
 		 		<Banner 

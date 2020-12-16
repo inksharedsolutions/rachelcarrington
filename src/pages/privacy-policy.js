@@ -1,4 +1,5 @@
 import React from 'react'
+import { Helmet } from 'react-helmet';
 
 import { useStaticQuery, graphql } from "gatsby"
 import Parser from 'html-react-parser';
@@ -27,6 +28,7 @@ const Pp = (props) =>{
 	return(
 		<>
 		 	<Layout>
+				<Helmet title="Privacy Policy | Rachel G. Carrington" />
 
 			 	<Nav pathExt={props.path}/>
 			 	

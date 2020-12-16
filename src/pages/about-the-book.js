@@ -1,4 +1,5 @@
 import React from 'react'
+import { Helmet } from 'react-helmet';
 import Layout from '../components/layout'
 import Nav from '../components/nav'
 import Banner from '../components/non-front-banner'
@@ -21,6 +22,7 @@ const ATB = (props)=>{
 	return (
 		<>
 		 	<Layout>
+		        <Helmet title="About the Book | Rachel G. Carrington" />
 		 		<Nav pathExt={props.path}/>
                  
 		 		<Banner
