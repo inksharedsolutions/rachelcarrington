@@ -64,14 +64,13 @@ const ATB = (props)=>{
                                     `,
 
                                     ebooks:{
-                                        stratton:'https://www.stratton-press.com/books/the-early-years-a-memoir-matters-of-the-heart-book-1/',
-                                        barnes:'#',
-                                        amazon:'https://www.amazon.com/Early-Years-Memoir-Matters-Heart/dp/164345434X/ref=sr_1_1?keywords=9781643454344&qid=1571761115&sr=8-1', 
+                                        amazon:'https://www.amazon.com/Early-Years-Memoir-Matters-Heart-ebook/dp/B08KWP5V3Y/',
+                                        barnes:'https://www.barnesandnoble.com/w/the-early-years-rachel-g-carrington/1134150167?ean=9781648952159', 
                                     },
                                     paperback:{
-                                        amazon:'https://www.amazon.com/Early-Years-Memoir-Matters-Heart/dp/164345434X/ref=sr_1_1?keywords=9781643454344&qid=1571761115&sr=8-1',
-                                        barnes:'#',
-                                        booksamillion:'#',
+                                        amazon:'https://www.amazon.com/dp/1648952143/',
+                                        barnes:'https://www.barnesandnoble.com/w/the-early-years-rachel-g-carrington/1134150167',
+                                        booksamillion:'https://www.booksamillion.com/p/Early-Years-Memoir/Rachel-G-Carrington/9781648952142',
                                     }
                                 }} 
                             />
